@@ -12,8 +12,8 @@ More project will be added soon.
 
 ### Questions? Comments?
 
-Please ask in the [youtube channel] https://www.youtube.com/channel/UC0hVJ_zWTNOqyA5qDgj0HPQ.
+Please ask on the [youtube channel] https://www.youtube.com/channel/UC0hVJ_zWTNOqyA5qDgj0HPQ.
 
-Have a good day!
+
 
 
