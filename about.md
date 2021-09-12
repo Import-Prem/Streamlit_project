@@ -1,4 +1,4 @@
-# About me
+# About meCancel changes
 
 My name is **Premkumar Khemani** and I'm a machine learning enthusiast.
 This is my first machine learing project; and I will incrementing this project with different features in the near future.
@@ -11,4 +11,6 @@ Thank you for visiting.
 #### Github :https://github.com/Import-Prem/
 
 
-**Have a Good day!**
+
+
+*Have a Good day!*
