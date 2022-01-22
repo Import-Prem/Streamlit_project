@@ -4,7 +4,7 @@ This project demonstrates the Landmark detection and YOLO object detection into 
 
 The first project Landmark detection will detect the landmark in an image and will provide you the name of the landmark. [only Asia]
 
-The second project YOLO object detection with detect object [80 objects] in the given image with the mentioned confidence.
+The second project YOLO object detection which detect object [80 objects] in the given image with the mentioned confidence.
 
 More project will be added soon.
 
